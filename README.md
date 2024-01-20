@@ -1,1 +1,1 @@
-An Netflix Frontend clone using TECHNOLOGY , HTML & CSS.  
+A Netflix Frontend clone using TECHNOLOGY , HTML & CSS.  
